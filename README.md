@@ -1,3 +1,38 @@
+Create app for car dealership that can check inventory for a company that sells cars.
+
+*Customer side*
+App will allow customer to see inventory and features avaialable.  
+They will be able to create an account/profile.
+Save cars in there wish list
+compare vehicle info between vehicles in wish list
+purchase vehicle
+give feed back on purchase.
+
+
+*Admin Side*
+See what vehicles are in inventory.
+Sort by price or features.
+See what vehilces were sold by day/week/month/year
+determine how much Money was made per day/week/month/year
+Remove customer profile
+Edit some customer profile info
+Add new inventory
+Remove inventory
+Edit inventory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
